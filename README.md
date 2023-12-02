@@ -1,6 +1,5 @@
 # CodingPortfolio
-## Project 1
-
-## Project 2
-
-## Project 3
+## GemFetcher For Path Of Exile
+### Youtube Link Demonstration:
+## Attire Suggestion App
+### Youtube Link Demonstration:
